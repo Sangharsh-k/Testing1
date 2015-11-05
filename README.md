@@ -1,4 +1,4 @@
 # Testing1
 A sample testing reposo\itory
-Modifying content in repository
+Pulling from master repositoy to add feature 2, branch2 is used to develop the feature.
 
